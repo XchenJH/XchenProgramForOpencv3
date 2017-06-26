@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|x64|E:\GitRepository\ProgramForOpencv3\chapter10\【88】亚像素级角点检测\|
