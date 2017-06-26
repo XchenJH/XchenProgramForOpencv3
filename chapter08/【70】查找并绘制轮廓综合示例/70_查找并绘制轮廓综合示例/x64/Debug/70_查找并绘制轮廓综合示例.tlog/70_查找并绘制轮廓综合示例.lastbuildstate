@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|x64|E:\GitRepository\ProgramForOpencv3\chapter08\【70】查找并绘制轮廓综合示例\|
